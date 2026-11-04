@@ -1,0 +1,26 @@
+Total number of records: 24111
+
+Part A - Hb per donation-number group and gender
+Gender  Donation nr  Donations  Mean Hb  Mean age  % below Hb limit
+F       1             5090      8.488     42.4       16.7
+F       2             2965      8.468     43.2       17.8
+F       3             1917      8.448     43.7       17.8
+F       4-5           2244      8.449     45.1       18.4
+F       6-10          1882      8.444     48.5       19.4
+F       11+            613      8.410     52.7       20.7
+M       1             2895      9.443     46.4        9.8
+M       2             1721      9.411     47.4        8.8
+M       3             1192      9.392     48.5        9.6
+M       4-5           1557      9.438     49.8        8.5
+M       6-10          1488      9.459     52.0        9.1
+M       11+            547      9.493     56.3        9.3
+
+Part B - Correlation between donation number and Hb
+Gender  Donations  Pearson r
+F       14711       -0.028
+M        9400        0.022
+
+Part C - Hb change between first and last donation (donors with >= 2 donations)
+Gender  Donors  Mean extra donations  Mean Hb change  % with lower Hb  % fell below limit
+F        2966          3.25              -0.031           51.9             13.0
+M        1725          3.77              -0.002           49.7              7.2

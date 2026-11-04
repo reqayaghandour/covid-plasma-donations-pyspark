@@ -1,0 +1,3 @@
+gender,donors,mean_extra_donations,mean_Hb_change,pct_lower_Hb,pct_fell_below_limit
+F,2966,3.25,-0.031,51.9,13.0
+M,1725,3.77,-0.002,49.7,7.2

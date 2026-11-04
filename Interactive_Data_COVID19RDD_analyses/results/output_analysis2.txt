@@ -1,0 +1,16 @@
+Total number of records: 24111
+High antibody threshold (75th percentile of Conc): 27.90
+
+Group with most high-antibody donations: 60+ M (40.6%)
+
+Age group  Gender  Donations  Mean logIgG  Mean Conc  % high antibody
+18-29      F        3381        2.346      19.25         16.8
+18-29      M        1256        2.237      15.04         13.5
+30-39      F        2103        2.210      21.30         15.5
+30-39      M        1266        2.098      18.34         15.0
+40-49      F        2720        2.385      23.12         20.7
+40-49      M        1561        2.468      26.88         24.9
+50-59      F        4288        2.626      27.59         24.7
+50-59      M        2876        2.881      39.61         37.4
+60+        F        2219        2.748      32.16         31.4
+60+        M        2441        2.973      42.65         40.6

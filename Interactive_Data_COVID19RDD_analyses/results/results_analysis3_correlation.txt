@@ -1,0 +1,3 @@
+gender,donations,pearson_r
+F,14711,-0.028
+M,9400,0.022
