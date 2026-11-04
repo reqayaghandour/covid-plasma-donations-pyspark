@@ -1,6 +1,6 @@
 # Big Data in Healthcare: COVID-19 Convalescent Plasma Donations (PySpark RDDs)
 
-Group 11 project for **Interactive Data Transformation** (Tilburg University).
+Groupproject for **Interactive Data Transformation**.
 
 A blood bank registers every plasma donation together with donor details and lab values. This project analyses such a donation-monitoring dataset with **PySpark, using only the low-level RDD API** (`textFile`, `map`, `filter`, `reduceByKey`, `collect`, ...). No Spark SQL, DataFrames or MLlib are used.
 
